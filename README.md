@@ -7,7 +7,7 @@ Function Description (English)
 
 test url：https://o0b.cn/iieidi  
 
-
+Email：huawei199512@gmail.com
 
 获取商品的唯一标识符（商品ID）
 	
